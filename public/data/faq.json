@@ -1,0 +1,44 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "How does the subscription box service work?",
+      "answer": "Our subscription box service delivers a curated selection of products to your door every month. Choose a subscription plan that suits you, and we'll ship your box at the beginning of each billing cycle. You can skip a month or cancel anytime."
+    },
+    {
+      "id": 2,
+      "question": "Can I customize my subscription box?",
+      "answer": "Yes! We offer various customization options. After subscribing, you can set your preferences in your account dashboard, and we'll tailor future boxes to match your tastes and needs as closely as possible."
+    },
+    {
+      "id": 3,
+      "question": "When will my subscription box ship?",
+      "answer": "Subscription boxes ship on the 5th of each month. If you subscribe after the 1st, your first box will ship the following month. You'll receive tracking information via email once your box is on its way."
+    },
+    {
+      "id": 4,
+      "question": "How do I cancel or pause my subscription?",
+      "answer": "Canceling or pausing is easy. Simply log into your account, go to the subscription management section, and select your preferred option. Changes must be made 3 days before your billing date to take effect for the next cycle."
+    },
+    {
+      "id": 5,
+      "question": "Are there any shipping fees?",
+      "answer": "Standard shipping is free within Bangladesh. For international orders or expedited shipping options, additional fees apply which will be displayed at checkout."
+    },
+    {
+      "id": 6,
+      "question": "Do you offer gift subscriptions?",
+      "answer": "Absolutely! Our subscription boxes make perfect gifts. Choose from various gift subscription lengths, and we'll send a digital gift notification to the recipient or directly to you for personal delivery."
+    },
+    {
+      "id": 7,
+      "question": "How can I track my order?",
+      "answer": "Once your subscription box ships, you'll receive a confirmation email with tracking information. You can also view shipping status and tracking details in your account dashboard under 'Order History'."
+    },
+    {
+      "id": 8,
+      "question": "Can I return items from my subscription box?",
+      "answer": "Due to the nature of our curated boxes, we don't accept returns for individual items. However, if you receive damaged products, please contact our customer support within 7 days of delivery for replacement options."
+    }
+  ]
+} 

@@ -1,0 +1,78 @@
+/* Swiper container styling */
+.mySwiper {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+/* Swiper slide styling for card effect */
+.mySwiper .swiper-slide {
+  background: transparent;
+  width: 300px;
+  height: 380px;
+}
+
+/* Style the card when active */
+.mySwiper .swiper-slide-active {
+  transform: scale(1.05);
+  transition: transform 0.3s;
+  z-index: 1;
+}
+
+/* Customize pagination bullets */
+.mySwiper .swiper-pagination-bullet {
+  width: 10px;
+  height: 10px;
+  background: rgba(255, 255, 255, 0.6);
+  opacity: 0.5;
+}
+
+.mySwiper .swiper-pagination-bullet-active {
+  background: white;
+  opacity: 1;
+}
+
+/* Navigation buttons styling */
+.mySwiper .swiper-button-next,
+.mySwiper .swiper-button-prev {
+  color: white;
+  background: rgba(0, 0, 0, 0.3);
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mySwiper .swiper-button-next:after,
+.mySwiper .swiper-button-prev:after {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Add a subtle glow effect to active slide */
+.mySwiper .swiper-slide-active::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 16px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+  pointer-events: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .mySwiper .swiper-slide {
+    width: 250px;
+    height: 350px;
+  }
+
+  .mySwiper .swiper-button-next,
+  .mySwiper .swiper-button-prev {
+    display: none;
+  }
+} 

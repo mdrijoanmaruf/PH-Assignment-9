@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "The Ultimate Guide to Beauty Subscription Boxes",
+    "date": "2023-06-15",
+    "author": "Rijoan Maruf",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Beauty Box Subscriptions",
+    "content": "Discover the best beauty subscription boxes in 2023 that deliver premium skincare, makeup, and self-care products right to your doorstep. We compare pricing, value, and product quality to help you choose the perfect box for your beauty routine."
+  },
+  {
+    "id": 2,
+    "title": "Men's Grooming Boxes: Elevating Self-Care for the Modern Man",
+    "date": "2023-09-28",
+    "author": "Rayyan Ahmed",
+    "image": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Beauty Box Subscriptions",
+    "content": "Men's grooming subscription boxes are revolutionizing how men approach personal care, offering curated selections of premium shaving supplies, skincare products, fragrances, and hair care essentials. Learn how these specialized boxes are helping men discover new brands and establish comprehensive grooming routines with expert guidance."
+  },
+  {
+    "id": 3,
+    "title": "Sustainability in Beauty Boxes: Eco-Friendly Self-Care Options",
+    "date": "2023-11-14",
+    "author": "Talha Rahman",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Beauty Box Subscriptions",
+    "content": "As environmental consciousness grows, beauty subscription box services are adapting with eco-friendly packaging, sustainable products, and ethical sourcing. Discover the subscription boxes leading the charge in sustainability while still delivering exceptional skincare and makeup products to consumers."
+  },
+  {
+    "id": 4,
+    "title": "Fitness Box Revolution: Transform Your Home Workouts",
+    "date": "2023-07-22",
+    "author": "Reyad Hossain",
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Food & Fitness Subscriptions",
+    "content": "Home workouts have never been more exciting with fitness subscription boxes. From resistance bands to workout guides, nutrition supplements, and exercise equipment – learn how these monthly deliveries can revolutionize your fitness journey without ever stepping foot in a gym."
+  },
+  {
+    "id": 5,
+    "title": "Culinary Adventures: Exploring Global Flavors Through Gourmet Boxes",
+    "date": "2023-08-05",
+    "author": "Sajjad Khan",
+    "image": "https://images.unsplash.com/photo-1590779033100-9f60a05a013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Food & Fitness Subscriptions",
+    "content": "Take your taste buds on a worldwide journey without leaving your kitchen. Gourmet subscription boxes are bringing authentic ingredients, spices, and recipes from around the globe directly to food enthusiasts. Discover how these curated boxes are changing the way we experience international cuisine."
+  },
+  {
+    "id": 6,
+    "title": "International Delights: Global Snack Subscription Boxes Reviewed",
+    "date": "2024-03-05",
+    "author": "Rihan Mahmud",
+    "image": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Food & Fitness Subscriptions",
+    "content": "Take your taste buds on a global adventure without leaving home through international snack subscription boxes. From Japanese candy to European chocolates and exotic chips from around the world, these services introduce subscribers to unique flavors and cultural favorites that might never reach your local grocery store."
+  },
+  {
+    "id": 7,
+    "title": "Wine Subscription Services: Becoming a Home Sommelier",
+    "date": "2023-10-25",
+    "author": "Zidan Ali",
+    "image": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Food & Fitness Subscriptions",
+    "content": "Wine subscription boxes are democratizing wine education and discovery, delivering curated selections to your door with detailed tasting notes and pairing suggestions. Whether you're a novice or an experienced enthusiast, these services can expand your palate, introduce you to boutique vineyards, and help you develop your wine knowledge at your own pace."
+  },
+  {
+    "id": 8,
+    "title": "Tech Boxes: The Latest Gadgets Delivered Monthly",
+    "date": "2023-09-11",
+    "author": "Saimoom Islam",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Tech & Gadget Subscriptions",
+    "content": "Stay on the cutting edge of technology with subscription boxes dedicated to tech enthusiasts. From smart home gadgets to innovative accessories, these monthly deliveries provide a continuous stream of the latest tech innovations, perfect for gadget lovers who always want to be ahead of the curve."
+  },
+  {
+    "id": 9,
+    "title": "Customization Revolution: How AI is Personalizing Subscription Boxes",
+    "date": "2024-02-05",
+    "author": "Fahim Rahman",
+    "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Tech & Gadget Subscriptions",
+    "content": "Artificial intelligence is transforming subscription boxes from one-size-fits-all to hyper-personalized experiences. Learn how advanced algorithms analyze customer preferences, behavior, and feedback to create increasingly tailored selections that seem almost magically aligned with individual tastes."
+  },
+  {
+    "id": 10,
+    "title": "Gaming Subscription Boxes: Monthly Treasures for Gamers",
+    "date": "2024-01-15",
+    "author": "Ismail Hossain",
+    "image": "https://images.unsplash.com/photo-1580327344181-c1163234e5a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Tech & Gadget Subscriptions",
+    "content": "Gaming subscription boxes deliver curated collections of merchandise, accessories, and collectibles to gamers every month. From exclusive figurines to limited edition apparel and gaming peripherals, these boxes offer a fun way for gamers to celebrate their favorite titles and discover new gaming-related products."
+  },
+  {
+    "id": 11,
+    "title": "Book Box Magic: How Monthly Book Deliveries Are Changing Reading Habits",
+    "date": "2023-10-03",
+    "author": "Nafis Abdullah",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Lifestyle Subscription Boxes",
+    "content": "Book subscription boxes are revitalizing reading culture by delivering carefully selected titles along with themed gifts and accessories. Explore how these literary packages are helping readers discover new authors, genres, and creating communities of book lovers connected through shared reading experiences."
+  },
+  {
+    "id": 12,
+    "title": "Kid-Friendly Subscription Boxes for Learning and Play",
+    "date": "2023-12-08",
+    "author": "Tasneem Ahmed",
+    "image": "https://images.unsplash.com/photo-1566140967404-b8b3932483f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Lifestyle Subscription Boxes",
+    "content": "Educational subscription boxes are revolutionizing how children learn through play. From science experiments to art projects, these monthly deliveries provide engaging activities that stimulate creativity and cognitive development while keeping kids entertained and excited about learning."
+  },
+  {
+    "id": 13,
+    "title": "Crafting Communities: How DIY Subscription Boxes Connect Hobbyists",
+    "date": "2024-01-12",
+    "author": "Adnan Khan",
+    "image": "https://images.unsplash.com/photo-1499744349893-0c6de53516e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Lifestyle Subscription Boxes",
+    "content": "DIY and craft subscription boxes are creating vibrant communities of makers who share their creations, techniques, and inspiration online. This article explores how these services are fostering connections between crafters worldwide, providing not just materials but also a sense of belonging to a creative community with shared interests."
+  },
+  {
+    "id": 14,
+    "title": "Subscription Boxes for Pets: Pampering Your Furry Friends",
+    "date": "2023-12-22",
+    "author": "Tanvir Hasan",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Lifestyle Subscription Boxes",
+    "content": "Pet parents are increasingly treating their four-legged companions to monthly subscription boxes filled with toys, treats, and accessories. Discover the top pet subscription services that cater to dogs, cats, and even exotic pets, offering specialized items tailored to your pet's size, age, and preferences."
+  },
+  {
+    "id": 15,
+    "title": "The Psychology Behind Subscription Box Excitement",
+    "date": "2024-01-20",
+    "author": "Sadman Sakib",
+    "image": "https://images.unsplash.com/photo-1607082350899-7e105aa886ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Subscription Box Trends",
+    "content": "Explore the psychological factors behind the subscription box phenomenon. From the anticipation of discovery to the dopamine rush of unboxing surprises, this article delves into why subscription boxes create such powerful emotional responses and customer loyalty in the e-commerce landscape."
+  },
+  {
+    "id": 16,
+    "title": "The Future of Subscription Boxes: Trends to Watch in 2024",
+    "date": "2024-03-17",
+    "author": "Mahir Abrar",
+    "image": "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Subscription Box Trends",
+    "content": "What's next for the subscription box industry? This forward-looking analysis examines emerging trends including cross-category collaborations, virtual reality unboxing experiences, community-driven curation, and other innovations that will shape the future of this rapidly evolving market."
+  },
+  {
+    "id": 17,
+    "title": "Small Business Spotlight: Indie Subscription Boxes Worth Trying",
+    "date": "2024-02-18",
+    "author": "Shamim Ahmed",
+    "image": "https://images.unsplash.com/photo-1556742031-c6961e8560b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Subscription Box Trends",
+    "content": "While major subscription services dominate the market, independent box curators are creating unique offerings with personal touches and locally sourced products. This article highlights small business subscription boxes that provide exceptional value, support local economies, and offer distinctive items you won't find in mainstream boxes."
+  },
+  {
+    "id": 18,
+    "title": "Subscription Box Budgeting: Maximizing Value Without Breaking the Bank",
+    "date": "2023-12-15",
+    "author": "Farhan Kabir",
+    "image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "category": "Subscription Box Trends",
+    "content": "With the proliferation of tempting subscription options, managing your box budget requires strategy. This practical guide offers tips for prioritizing subscriptions that deliver the best value, maximizing discounts through annual commitments, sharing boxes with friends or family, and recognizing when it's time to pause or cancel services to maintain financial health."
+  }
+] 

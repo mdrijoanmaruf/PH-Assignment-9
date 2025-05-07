@@ -1,0 +1,100 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Tasnim Rahman",
+      "image": "https://randomuser.me/api/portraits/women/44.jpg",
+      "rating": 5,
+      "subscription": "Beauty Essentials Box",
+      "text": "I've been a subscriber for 6 months now and every box exceeds my expectations. The skincare products have completely transformed my routine!"
+    },
+    {
+      "id": 2,
+      "name": "Fahim Ahmed",
+      "image": "https://randomuser.me/api/portraits/men/32.jpg",
+      "rating": 5,
+      "subscription": "Fitness Box",
+      "text": "The fitness subscription box has been a game-changer for my home workouts. I discover new equipment and supplements that keep me motivated."
+    },
+    {
+      "id": 3,
+      "name": "Nusrat Jahan",
+      "image": "https://randomuser.me/api/portraits/women/67.jpg",
+      "rating": 4,
+      "subscription": "Gourmet Foodie Box",
+      "text": "As a foodie, I'm always excited to receive my monthly gourmet box. The curated selection of artisanal foods introduces me to flavors I wouldn't find locally."
+    },
+    {
+      "id": 4,
+      "name": "Tanvir Hossain",
+      "image": "https://randomuser.me/api/portraits/men/86.jpg",
+      "rating": 5,
+      "subscription": "Smart Home Box",
+      "text": "The tech gadgets I receive are innovative and practical. It's like having a personal tech scout finding the coolest new accessories before they go mainstream."
+    },
+    {
+      "id": 5,
+      "name": "Farida Akter",
+      "image": "https://randomuser.me/api/portraits/women/28.jpg",
+      "rating": 5,
+      "subscription": "Beauty Essentials Box",
+      "text": "I look forward to my beauty box every month! It's introduced me to premium brands I wouldn't normally try, and now they're staples in my routine."
+    },
+    {
+      "id": 6,
+      "name": "Saif Islam",
+      "image": "https://randomuser.me/api/portraits/men/52.jpg",
+      "rating": 4,
+      "subscription": "Smart Home Box",
+      "text": "The tech box consistently delivers useful gadgets that I didn't know I needed until they arrived. Great value for the price!"
+    },
+    {
+      "id": 7,
+      "name": "Ishrat Jahan",
+      "image": "https://randomuser.me/api/portraits/women/15.jpg",
+      "rating": 5,
+      "subscription": "Gourmet Foodie Box",
+      "text": "The gourmet subscription has made our date nights at home so special. We've discovered amazing foods we now order regularly."
+    },
+    {
+      "id": 8,
+      "name": "Mahmud Hassan",
+      "image": "https://randomuser.me/api/portraits/men/39.jpg",
+      "rating": 5,
+      "subscription": "Fitness Box",
+      "text": "The quality of the fitness products is outstanding. Each box feels personalized to my fitness goals and preferences."
+    },
+    {
+      "id": 9,
+      "name": "Sadia Khan",
+      "image": "https://randomuser.me/api/portraits/women/32.jpg",
+      "rating": 4,
+      "subscription": "Beauty Essentials Box",
+      "text": "The variety in each beauty box keeps my routine fresh and exciting. I've found my holy grail products through this subscription!"
+    },
+    {
+      "id": 10,
+      "name": "Anik Rahman",
+      "image": "https://randomuser.me/api/portraits/men/9.jpg",
+      "rating": 5,
+      "subscription": "Gaming Crate",
+      "text": "As a tech enthusiast, I'm impressed by the curation. They find unique, useful gadgets that make perfect gifts for friends too."
+    },
+    {
+      "id": 11,
+      "name": "Nabila Chowdhury",
+      "image": "https://randomuser.me/api/portraits/women/79.jpg",
+      "rating": 5,
+      "subscription": "Gourmet Foodie Box",
+      "text": "The international snacks and ingredients have expanded my cooking horizons. Best food subscription I've tried!"
+    },
+    {
+      "id": 12,
+      "name": "Zubair Ahmed",
+      "image": "https://randomuser.me/api/portraits/men/76.jpg",
+      "rating": 4,
+      "subscription": "Fitness Box",
+      "text": "Great variety of fitness accessories and nutritional products. The subscription has kept me consistent with my fitness journey."
+    }
+  ]
+} 

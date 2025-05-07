@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Smart Home Box",
+    "thumbnail": "https://i.ibb.co.com/B5DXDB6j/smart-Home.jpg",
+    "banner": "https://i.ibb.co.com/B5DXDB6j/smart-Home.jpg",
+    "frequency": "Quarterly",
+    "price": 21999,
+    "description": "Transform your home into a smart home with curated smart devices, home automation products, and IoT gadgets.",
+    "tech_category": "Smart Home",
+    "features": [
+      "Smart Home Devices",
+      "Home Automation Tools",
+      "Cutting-edge IoT Gadgets"
+    ],
+    "subscription_benefits": [
+      "Discount on Future Smart Home Purchases",
+      "Exclusive Smart Home Tutorials",
+      "Early Access to Product Releases"
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 315
+  },
+  {
+    "id": 2,
+    "name": "Beauty Essentials Box",
+    "thumbnail": "https://i.ibb.co.com/99dNRhyb/buityBox.jpg",
+    "banner": "https://i.ibb.co.com/99dNRhyb/buityBox.jpg",
+    "frequency": "Monthly",
+    "price": 5499,
+    "description": "Discover premium skincare, makeup, and beauty tools from established and emerging brands, delivered to your doorstep.",
+    "tech_category": "Beauty & Wellness",
+    "features": [
+      "Full-sized Premium Products",
+      "Personalized Beauty Recommendations",
+      "Cruelty-free Options Available"
+    ],
+    "subscription_benefits": [
+      "Beauty Tutorial Access",
+      "Exclusive Member Discounts",
+      "Early Access to Limited Edition Products"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 842
+  },
+  {
+    "id": 3,
+    "name": "Gourmet Foodie Box",
+    "thumbnail": "https://i.ibb.co.com/7xmsYw94/food-slider-p1-1400x.jpg",
+    "banner": "https://i.ibb.co.com/7xmsYw94/food-slider-p1-1400x.jpg",
+    "frequency": "Monthly",
+    "price": 8799,
+    "description": "Experience international flavors with our carefully curated selection of gourmet ingredients, snacks, and cooking accessories.",
+    "tech_category": "Food & Beverage",
+    "features": [
+      "Artisanal Food Products",
+      "International Cuisine Selections",
+      "Recipe Cards with Chef Instructions"
+    ],
+    "subscription_benefits": [
+      "Cooking Class Discounts",
+      "Exclusive Recipes Access",
+      "Member-only Tasting Events"
+    ],
+    "ratings": 4.9,
+    "number_of_reviews": 567
+  },
+  {
+    "id": 4,
+    "name": "Fitness Box",
+    "thumbnail": "https://i.ibb.co.com/7dR4RHK6/feature-1.jpg",
+    "banner": "https://i.ibb.co.com/7dR4RHK6/feature-1.jpg",
+    "frequency": "Bi-Monthly",
+    "price": 9899,
+    "description": "Reach your fitness goals with premium workout equipment, supplements, and wellness products delivered regularly.",
+    "tech_category": "Fitness & Health",
+    "features": [
+      "Premium Fitness Equipment",
+      "Nutrition Supplements",
+      "Workout Programs"
+    ],
+    "subscription_benefits": [
+      "Personal Trainer Consultations",
+      "Custom Workout Plans",
+      "Nutrition Guidance"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 412
+  },
+  {
+    "id": 5,
+    "name": "Book Lovers Box",
+    "thumbnail": "https://i.ibb.co.com/qYz5j8Vq/6-e4dad2ab-2072-4cdc-8a6c-9e4861b604a8.jpg",
+    "banner": "https://i.ibb.co.com/qYz5j8Vq/6-e4dad2ab-2072-4cdc-8a6c-9e4861b604a8.jpg",
+    "frequency": "Monthly",
+    "price": 4399,
+    "description": "Expand your literary horizons with handpicked books across genres, along with reading accessories and themed gifts.",
+    "tech_category": "Books & Literature",
+    "features": [
+      "Handpicked New Releases",
+      "Exclusive Author Editions",
+      "Reading Accessories"
+    ],
+    "subscription_benefits": [
+      "Online Book Club Access",
+      "Author Meet and Greets",
+      "Reading Challenges with Prizes"
+    ],
+    "ratings": 4.9,
+    "number_of_reviews": 729
+  },
+  {
+    "id": 6,
+    "name": "Gaming Crate",
+    "thumbnail": "https://i.ibb.co.com/rff7nq4r/Hasbro-Gaming-Mask.jpg",
+    "banner": "https://i.ibb.co.com/rff7nq4r/Hasbro-Gaming-Mask.jpg",
+    "frequency": "Monthly",
+    "price": 7699,
+    "description": "Level up your gaming experience with collectibles, gaming accessories, and exclusive merchandise from your favorite franchises.",
+    "tech_category": "Gaming & Entertainment",
+    "features": [
+      "Limited Edition Collectibles",
+      "Gaming Peripherals",
+      "Exclusive In-game Content"
+    ],
+    "subscription_benefits": [
+      "Beta Testing Opportunities",
+      "Gaming Tournament Access",
+      "Discord Community Membership"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 891
+  },
+  {
+    "id": 7,
+    "name": "Pet Pampering Box",
+    "thumbnail": "https://i.ibb.co.com/fzYCJLb4/default-name.jpg",
+    "banner": "https://i.ibb.co.com/fzYCJLb4/default-name.jpg",
+    "frequency": "Monthly",
+    "price": 6599,
+    "description": "Treat your furry friends to premium toys, treats, and accessories that will keep them happy, healthy, and entertained.",
+    "tech_category": "Pets & Animals",
+    "features": [
+      "Organic Pet Treats",
+      "Durable Toys",
+      "Grooming Products"
+    ],
+    "subscription_benefits": [
+      "Veterinary Consultation Discounts",
+      "Pet Training Tips",
+      "Pet Insurance Offers"
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 613
+  },
+  {
+    "id": 8,
+    "name": "Gardening Box",
+    "thumbnail": "https://i.ibb.co.com/BJyc9yF/vegetable-in-garden-box.jpg",
+    "banner": "https://i.ibb.co.com/BJyc9yF/vegetable-in-garden-box.jpg",
+    "frequency": "Seasonal",
+    "price": 8249,
+    "description": "Grow your own garden with seasonal seeds, plants, tools, and expert guidance for both beginners and experienced gardeners.",
+    "tech_category": "Home & Garden",
+    "features": [
+      "Seasonal Plants and Seeds",
+      "Quality Gardening Tools",
+      "Organic Fertilizers"
+    ],
+    "subscription_benefits": [
+      "Gardening Workshop Access",
+      "Plant Care Consultations",
+      "Seasonal Planting Guides"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 478
+  }
+] 
